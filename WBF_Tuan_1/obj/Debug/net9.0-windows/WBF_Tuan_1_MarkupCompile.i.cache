@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\Pavilion\source\repos\WBF\WBF_Tuan_1\App.xaml
-6-1301934872
+7-1853669311
 
-11620007408
-2001928194731
-ChiTietGiaoDich.xaml;LogIn.xaml;LogInNew.xaml;MainWindow.xaml;Signup.xaml;SignUpNew.xaml;
+15-556199770
+218-2103264639
+ChiTietGiaoDich.xaml;LogIn.xaml;MainWindow.xaml;Signup.xaml;Views\Home\HomePage.xaml;Views\Onboarding\LogInNew.xaml;Views\Onboarding\SignUpNew.xaml;
 
 False
 

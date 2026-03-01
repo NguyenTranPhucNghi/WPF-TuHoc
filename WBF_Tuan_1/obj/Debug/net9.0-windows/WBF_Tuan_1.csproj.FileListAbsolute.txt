@@ -28,3 +28,4 @@ C:\Users\Pavilion\source\repos\WBF\WBF_Tuan_1\obj\Debug\net9.0-windows\ChiTietGi
 C:\Users\Pavilion\source\repos\WBF\WBF_Tuan_1\obj\Debug\net9.0-windows\LogIn.baml
 C:\Users\Pavilion\source\repos\WBF\WBF_Tuan_1\obj\Debug\net9.0-windows\LogInNew.baml
 C:\Users\Pavilion\source\repos\WBF\WBF_Tuan_1\obj\Debug\net9.0-windows\SignUpNew.baml
+C:\Users\Pavilion\source\repos\WBF\WBF_Tuan_1\obj\Debug\net9.0-windows\WBF_Tuan_1.sourcelink.json

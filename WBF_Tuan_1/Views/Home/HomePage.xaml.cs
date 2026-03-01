@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,20 +12,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace WBF_Tuan_1
+namespace WBF_Tuan_1.Views.Home
 {
     /// <summary>
-    /// Interaction logic for SignUpNew.xaml
+    /// Interaction logic for HomePage.xaml
     /// </summary>
-    public partial class SignUpNew : Page
+    public partial class HomePage : Window
     {
-        public SignUpNew()
+        public HomePage()
         {
             InitializeComponent();
         }
-
-        
-
-        
-	}
+    }
 }
