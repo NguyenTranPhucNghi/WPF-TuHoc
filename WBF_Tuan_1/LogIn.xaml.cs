@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace WBF_Tuan_1
+{
+    /// <summary>
+    /// Interaction logic for LogIn.xaml
+    /// </summary>
+    public partial class LogIn : Page
+    {
+        public LogIn()
+        {
+            InitializeComponent();
+        }
+
+        private void btnLogIn_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Log in functionality to be implemented", "Login");
+        }
+
+        private void btnSignUp_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new SignUpNew());
+        }
+    }
+}
